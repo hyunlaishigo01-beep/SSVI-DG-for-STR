@@ -1,6 +1,6 @@
 ### Note
 
-Some '.m' files ('DVI_check, SSDG, SSVIDG') were removed from the current version during code organization. 
+Some duplicate '.m' files ('DVI_check, SSDG, SSVIDG') were removed from the current version during code organization. 
 Their previous versions remain accessible through the GitHub commit history. 
 Readers who need these files can retrieve them from the corresponding previous commits.
 
