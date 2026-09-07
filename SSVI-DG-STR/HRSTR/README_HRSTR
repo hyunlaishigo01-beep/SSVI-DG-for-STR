@@ -4,4 +4,5 @@ Some '.m' files ('DVI_check, SSDG, SSVIDG') were removed from the current versio
 Their previous versions remain accessible through the GitHub commit history. 
 Readers who need these files can retrieve them from the corresponding previous commits.
 
-The 'DVI_check, SSDG, SSVIDG, and DCDM' are applicable to both Rank1 and HRSTR.
+The 'DVI_check, SSDG, SSVIDG, and DCDM' are applicable to both Rank1 and HRSTR. 
+Please check the Rank1 folder for the DVI_check.m, SSDG.m, SSVIDG.m, and DCDM.m files.
