@@ -1,1 +1,7 @@
-The DVI_check, SSDG, SSVIDG, and DCDM are also applicable to the HRSTR.
+### Note
+
+Some `.m` files were removed from the current version during code organization. 
+Their previous versions remain accessible through the GitHub commit history. 
+Readers who need these files can retrieve them from the corresponding previous commits.
+
+The **DVI_check, SSDG, SSDGVI, and DCDM** implementations are applicable to both Rank1 and HRSTR.
